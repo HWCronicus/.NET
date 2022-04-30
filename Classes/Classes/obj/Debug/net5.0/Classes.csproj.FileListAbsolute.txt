@@ -1,0 +1,16 @@
+D:\Coding\Sabio\C#\Classes\Classes\bin\Debug\net5.0\Classes.exe
+D:\Coding\Sabio\C#\Classes\Classes\bin\Debug\net5.0\Classes.deps.json
+D:\Coding\Sabio\C#\Classes\Classes\bin\Debug\net5.0\Classes.runtimeconfig.json
+D:\Coding\Sabio\C#\Classes\Classes\bin\Debug\net5.0\Classes.runtimeconfig.dev.json
+D:\Coding\Sabio\C#\Classes\Classes\bin\Debug\net5.0\Classes.dll
+D:\Coding\Sabio\C#\Classes\Classes\bin\Debug\net5.0\Classes.pdb
+D:\Coding\Sabio\C#\Classes\Classes\obj\Debug\net5.0\Classes.csproj.AssemblyReference.cache
+D:\Coding\Sabio\C#\Classes\Classes\obj\Debug\net5.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Sabio\C#\Classes\Classes\obj\Debug\net5.0\Classes.AssemblyInfoInputs.cache
+D:\Coding\Sabio\C#\Classes\Classes\obj\Debug\net5.0\Classes.AssemblyInfo.cs
+D:\Coding\Sabio\C#\Classes\Classes\obj\Debug\net5.0\Classes.csproj.CoreCompileInputs.cache
+D:\Coding\Sabio\C#\Classes\Classes\obj\Debug\net5.0\Classes.dll
+D:\Coding\Sabio\C#\Classes\Classes\obj\Debug\net5.0\refint\Classes.dll
+D:\Coding\Sabio\C#\Classes\Classes\obj\Debug\net5.0\Classes.pdb
+D:\Coding\Sabio\C#\Classes\Classes\obj\Debug\net5.0\Classes.genruntimeconfig.cache
+D:\Coding\Sabio\C#\Classes\Classes\obj\Debug\net5.0\ref\Classes.dll
